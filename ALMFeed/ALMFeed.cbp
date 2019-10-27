@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ALMFeed" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ALMFeed" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ALMFeed" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../HOCKEY/arrays.php" />
+		<Unit filename="../HOCKEY/baseData.php" />
+		<Unit filename="../HOCKEY/c.sh" />
+		<Unit filename="../HOCKEY/data.php" />
+		<Unit filename="../HOCKEY/emptyData.php" />
+		<Unit filename="../HOCKEY/events.php" />
+		<Unit filename="../HOCKEY/feed.php" />
+		<Unit filename="../HOCKEY/league.xml" />
+		<Unit filename="../HOCKEY/lines.php" />
+		<Unit filename="../HOCKEY/location.xml" />
+		<Unit filename="../HOCKEY/randomData.php" />
+		<Unit filename="../HOCKEY/readme.txt" />
+		<Unit filename="../HOCKEY/scheduler.xml" />
+		<Unit filename="../HOCKEY/sport.xml" />
+		<Unit filename="../HOCKEY/sportsbook.xml" />
+		<Unit filename="../HOCKEY/staticData.php" />
+		<Unit filename="../HOCKEY/team.xml" />
+		<Unit filename="../HOCKEY/templates.php" />
+		<Unit filename="../HOCKEY/text.xml" />
+		<Unit filename="../HOCKEY/token.xml" />
+		<Unit filename="../SOCCER/arrays.php" />
+		<Unit filename="../SOCCER/baseData.php" />
+		<Unit filename="../SOCCER/c.sh" />
+		<Unit filename="../SOCCER/data.php" />
+		<Unit filename="../SOCCER/emptyData.php" />
+		<Unit filename="../SOCCER/events.php" />
+		<Unit filename="../SOCCER/feed.php" />
+		<Unit filename="../SOCCER/league.xml" />
+		<Unit filename="../SOCCER/lines.php" />
+		<Unit filename="../SOCCER/location.xml" />
+		<Unit filename="../SOCCER/randomData.php" />
+		<Unit filename="../SOCCER/readme.txt" />
+		<Unit filename="../SOCCER/scheduler.xml" />
+		<Unit filename="../SOCCER/sport.xml" />
+		<Unit filename="../SOCCER/sportsbook.xml" />
+		<Unit filename="../SOCCER/staticData.php" />
+		<Unit filename="../SOCCER/team.xml" />
+		<Unit filename="../SOCCER/templates.php" />
+		<Unit filename="../SOCCER/text.xml" />
+		<Unit filename="../SOCCER/token.xml" />
+		<Unit filename="../c.sh" />
+		<Unit filename="../league.xml" />
+		<Unit filename="../location.xml" />
+		<Unit filename="../scheduler.xml" />
+		<Unit filename="../scores.xml" />
+		<Unit filename="../sport.xml" />
+		<Unit filename="../sportsbook.xml" />
+		<Unit filename="../team.xml" />
+		<Unit filename="../token.xml" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

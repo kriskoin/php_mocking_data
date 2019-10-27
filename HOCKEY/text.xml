@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<don_best_sports>
+<title>Simulating Don Best Current Lines 32</title>
+<link>/v2/odds/9</link>
+<id>current_lines_9_2_25_false</id>
+<updated>2015-10-17T23:20:14+0</updated>
+<event id="22136" date="2015-10-17T11:09:33+0">
+<line away_rot="1001" home_rot="1002" time="2015-10-17T11:09:33+0" period_id="1" period="FG" type="current" sportsbook="158" no_line="false">
+<money away_money="225" home_money="200" draw_money="120"/>
+<ps away_spread="0.00" away_price="120" home_spread="0.00" home_price="-140"/>
+<total total="1.00" over_price="-108" under_price="-112"/>
+<display away="0" home="0"/>
+</line><line away_rot="1001" home_rot="1002" time="2015-10-17T11:09:33+0" period_id="1" period="FG" type="current" sportsbook="38" no_line="false">
+<money away_money="225" home_money="200" draw_money="120"/>
+<ps away_spread="0.00" away_price="120" home_spread="0.00" home_price="-140"/>
+<total total="1.00" over_price="-108" under_price="-112"/>
+<display away="0" home="0"/>
+</line>
+</event><event id="22136" date="2015-10-17T11:09:33+0">
+<line away_rot="1003" home_rot="1004" time="2015-10-17T11:09:33+0" period_id="1" period="FG" type="current" sportsbook="158" no_line="false">
+<money away_money="225" home_money="200" draw_money="120"/>
+<ps away_spread="0.00" away_price="120" home_spread="0.00" home_price="-140"/>
+<total total="1.00" over_price="-108" under_price="-112"/>
+<display away="0" home="0"/>
+</line><line away_rot="1003" home_rot="1004" time="2015-10-17T11:09:33+0" period_id="1" period="FG" type="current" sportsbook="38" no_line="false">
+<money away_money="225" home_money="200" draw_money="120"/>
+<ps away_spread="0.00" away_price="120" home_spread="0.00" home_price="-140"/>
+<total total="1.00" over_price="-108" under_price="-112"/>
+<display away="0" home="0"/>
+</line>
+</event>
+</don_best_sports>
